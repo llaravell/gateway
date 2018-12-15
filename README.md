@@ -1,6 +1,3 @@
-
-package's home : [larabook.ir](http://larabook.ir/اتصال-درگاه-بانک-لاراول/) 
-
 by this  package we are able to connect to all Iranian bank with one unique API.
 
 ( This Package is now compatible with both **4.\* and 5.\* versions of Laravel** )
